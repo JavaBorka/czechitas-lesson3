@@ -10,5 +10,5 @@ vstup.innerHTML = jmeno + " " + vek;
 
 // DÚ2: Přidej do programu "vstup" uživatele s jeho oblíbenou barvou ("anglicky") s tím, že celý výpis s úkolu č.1. obarvíš danou barvou, ze vstupu uživatele.
 
-const barva = prompt("Když máš rád modrou barvu, tak zadej blue");
+const barva = prompt("Je modrá tvoje oblíbená barva? Zadaj blue");
 vstup.style.color = barva;
